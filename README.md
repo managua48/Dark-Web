@@ -51,7 +51,7 @@ Acceder a la **Dark Web** no es tan complicado, pero requiere ciertos pasos para
 El primer paso es descargar el navegador **Tor**, que está diseñado para encriptar el tráfico del usuario y hacerlo pasar por múltiples nodos en diferentes partes del mundo. Este proceso oculta la ubicación y la identidad del usuario. **Tor** es gratuito y está disponible para varios sistemas operativos.
 
 <!-- BEGIN LATEST DOWNLOAD BUTTON -->
-[![Descargar](https://custom-icon-badges.demolab.com/badge/-Descargar-7D4698?style=for-the-badge&logo=download&logoColor=FFFFFF&labelColor=4E8C24)](https://www.torproject.org/dist/torbrowser/13.5.4/tor-browser-windows-x86_64-portable-13.5.4.exe)
+[![Descargar](https://custom-icon-badges.demolab.com/badge/-Descargar-7D4698?style=for-the-badge&logo=download&logoColor=FFFFFF&labelColor=4E8C24)](https://www.torproject.org/dist/torbrowser/13.5.6/tor-browser-windows-x86_64-portable-13.5.6.exe)
 <!-- END LATEST DOWNLOAD BUTTON -->
 
 #### 2. Configuración Básica de Seguridad
